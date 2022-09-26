@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753457069006",
+    "project_id": "nordtest-7b540",
+    "storage_bucket": "nordtest-7b540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753457069006:android:a43c7210cd83c59089c99f",
+        "android_client_info": {
+          "package_name": "com.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753457069006-nffn18j1b1iulikvqqmd0d1p5195qup5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2HfTNrE80-hzQK9iRI2yxpi0P4GvUeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753457069006-nffn18j1b1iulikvqqmd0d1p5195qup5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
